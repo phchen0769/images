@@ -1,2 +1,2 @@
 # images
-typro images
+typora images
